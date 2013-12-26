@@ -1,5 +1,11 @@
 # simpleTheme
 
+Index page
+![](http://i.imm.io/1n5Mn.jpeg)
+
+Single post
+![](http://i.imm.io/1n5Oa.png)
+
 ## Copyright & License
 
 Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
