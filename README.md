@@ -6,13 +6,25 @@ Index page
 Single post
 ![](http://i.imm.io/1n5Oa.png)
 
-## Copyright & License
+# Instalation
 
-Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
+Create a folder with the name of minimalistTheme in the path  /content/themes of your ghost blog,  
+download the theme and put the content in the new folder
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+In the admin page go to settings and select the new theme
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+# Disqus config
+
+Open the post.hbs file and change the value of the variable disque_shortname for your own.
+
+```
+<script type="text/javascript">
+   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'yourshortname'; // required: replace example with your forum shortname
+  /* MORE CODE /
+</script>
+
+```
+
+
