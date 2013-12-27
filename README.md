@@ -27,4 +27,8 @@ Open the post.hbs file and change the value of the variable disque_shortname for
 
 ```
 
+DEMO
+
+http://whispering-chamber-6085.herokuapp.com/
+
 
